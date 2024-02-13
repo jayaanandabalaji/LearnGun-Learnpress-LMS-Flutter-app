@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_zoom_local" >LearnGun</string>
+    <string name="app_name">LearnGun</string>
+    <string name="facebook_app_id">471118154708275</string>
+    <string name="fb_login_protocol_scheme">fb471118154708275</string>
+    <string name="facebook_client_token">47f71ee6a48c6321604fe502466f79cf</string>
+</resources>

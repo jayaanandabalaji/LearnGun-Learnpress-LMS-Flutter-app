@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://toolchain.gitbook.com/./</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/apiplugin.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/FlutterEnvironment.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/FlutterSetup.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/AndroidstudioSetup.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/InstallingFlutterPackages.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/SettingtheSiteURL.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/AddingAppIcon.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/PackageNameandAppName.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Ios_app_build/flutterSetup.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Ios_app_build/iosDevelopersAccount.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Ios_app_build/iosAppBuild.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/basicChanges.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/Android_App_build/LanguageSwitch.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/features/paymentGateways.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/features/FirebaseNotificationAndGoogleLogin.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/features/zoom.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/features/AdmobAds.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/features/appLinks.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/features/PMPro.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/release/ReducingAppSize.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/release/AppRelease.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://toolchain.gitbook.com/changelogs.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>

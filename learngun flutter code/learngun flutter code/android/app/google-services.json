@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "430951789769",
+    "project_id": "learngun-f620f",
+    "storage_bucket": "learngun-f620f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430951789769:android:276754c663a09f8c38c918",
+        "android_client_info": {
+          "package_name": "com.learngun.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430951789769-6ife76omomc56ovi18ut6h27f77d9qj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learngun.courses",
+            "certificate_hash": "adea6540815b1106401689a4cab699f7603156f5"
+          }
+        },
+        {
+          "client_id": "430951789769-9fusln3t19l1fundb4tj7sa9krcd3orf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learngun.courses",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "430951789769-mpp8taaahd34ksohq5qgq90aalf4nq8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learngun.courses",
+            "certificate_hash": "60fd5d672cc880b6aac3ddd95f9a7b1cc3b93043"
+          }
+        },
+        {
+          "client_id": "430951789769-nrtpvemh3njkb2s9ih9kqrk9i1qt4vmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZifbgItdYiNoK1gbyp7mBUyw3IS0In4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430951789769-nrtpvemh3njkb2s9ih9kqrk9i1qt4vmg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430951789769-6lp9gi02o2ithifg9clqel5rslujfci5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.learngun.courses"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
